@@ -1,0 +1,199 @@
+id,cityId,timestamp,lat,lng,address,age,contact_no,corporator_name,gender,party,pincode,ward_name,ward_no,mlaId
+20001,1,2018-08-21T07:52:15.283Z,13.106600,77.577926,"#75, 1st Main Raod, Venkatala Grama, Yelahanka Post, Bengaluru-560064",53,9980196440,Chandramma Kempegowda,Female,BJP,560064,Kempegowda Ward,1,20
+20002,1,2018-08-21T07:52:32.408Z,13.05903,77.554354,"#32, Eranna Nilaya, 1st Main, Chamundeshwari Layout, Doddabommasandra, Bangalore-560097",52,9845168272,Jayalakshmamma Pillappa,Female,BJP,560097,Dodda Bommasandra,10,24
+20003,1,2018-08-21T07:55:15.786Z,12.989446,77.542349,"#1077, 6th Main, Saneguruvanhalli, 3rd Stage, 3rd Block, Basaveshwarnagar",44,9632555537,Umavathi Padmaraj,Female,BJP,560079,Basaveshwara Nagar,100,14
+20004,1,2018-08-21T07:55:17.696Z,12.984587,77.530611,"#136, 6th Main Road, Meenakshinagar, Kamakshipalya, Bengaluru-560079",27,7204783965,Pratima R,Female,BJP,560079,Kamakshipalya,101,14
+20005,1,2018-08-21T07:55:19.275Z,12.980589,77.524350,"#91/2, 11th Cross, Vrushabhavathi Nagar, Kamakshipalya",41,9535829234,S P Hemalatha,Female,JD(S),560079,Vrisahbhavathi Nagar,102,9
+20006,1,2018-08-21T07:55:21.198Z,12.932169,77.578235,"#1389/53, 24th Cross, K H B Colony, M R C R Extension",41,9243420080,R Ramila,Female,JD(S),560079,Kaveripura,103,3
+20007,1,2018-08-21T07:55:22.813Z,12.954230,77.526631,"#1441, Kamadenu, 2nd Cross, 2 Phase, 2nd Stage, Chandra Layout",42,9845844447,Umesh Shetty,Male,BJP,560039,Govindaraja Nagar,104,3
+20008,1,2018-08-21T07:55:24.728Z,12.990993,77.550863,"#77 P, 4th Phase, 4th Stage, West of Chord Road, 17th Cross, Basaveshwaranagar",28,9916504343,Shilpa G,Female,BJP,560079,Agrahara Dasarahalli,105,3
+20009,1,2018-08-21T07:55:26.620Z,12.977625,77.553449,"#477, 10th G Mqain, 6th Block, Rajajinagar",39,9845038189,Roopa R,Female,INC,560010,Dr.Raj Kumar Ward,106,3
+20010,1,2018-08-21T07:55:28.950Z,12.986723,77.544941,"#G-93, 6th Main Road, 6th Stage, 5th Cross, Mahaganapathinagar, Bangalore-10",37,9845055813,Manjula Vijaykumar,Female,INC,560010,Shiva Nagar,107,14
+20011,1,2018-08-21T07:55:31.138Z,12.985542,77.555332,"# 375, 57th Cross, 3rd Block, Rajajinagar",35,7353000971,Deepa Nagesh,Female,BJP,560010,Sri Rama Mandir Ward,108,14
+20012,1,2018-08-21T07:55:32.705Z,12.972433,77.575833,"#23, Rangaswamy Temple Street, 16th Cross",25,9844005002,Leela Shivakumar,Female,BJP,560053,Chickpete,109,2
+20013,1,2018-08-21T07:52:34.307Z,13.069972,77.568262,"#92, 2nd Main, 5th Cross, Varadaraja Nagar, Vidyaranyapura",52,9980609525,V V Parthibha Rajan,Male,INC,560097,Kuvempu Nagar,11,24
+20014,1,2018-08-21T07:55:34.659Z,12.965892,77.590971,"#22, 8th Cross, 8th Main road, S.R.Nagar, Bangalore-560027",46,9741333666,R Vasanth Kumar,Male,INC,560027,Sampangiram Nagar,110,18
+20015,1,2018-08-21T07:55:36.206Z,12.955814,77.612372,"#12, Bazar Street, Ashok Nagar",67,9449716667,M B Dwarakanath (Dalu),Male,BJP,560025,Shantala Nagar,111,17
+20016,1,2018-08-21T07:55:38.005Z,12.959309,77.638089,"# 277, 6th Cross, 1st Main, Domlur Layout",57,9880215787,C R Lakshminarayan,Male,INDP,560071,Domlur,112,17
+20017,1,2018-08-21T07:55:39.751Z,12.958043,77.661833,"#100, Konena Agrahara, H A L Post",67,9854273901,M Chandrappa Reddy,Male,INDP,560017,Konena Agrahara,113,25
+20018,1,2018-08-21T07:55:41.656Z,12.962236,77.637587,"#12, 2nd Cross, Maheshwaramma Temple Street, Dhoopnahalli, H A L 2nd Stage, Indiranagar",27,9845726671,N Bhavya Lokesh,Female,BJP,560038,Agaram,114,17
+20019,1,2018-08-21T07:55:43.285Z,12.951123,77.607061,"#2, 15th Cross, Anepalya, Kolandappa Garden, Adugodi Post",39,9845726671,K Shivakumar,Male,BJP,560030,Vannar Pet,115,17
+20020,1,2018-08-21T07:55:45.176Z,12.954634,77.620966,"#85, 1st Main, L R Nagar, Viveknagar Post",44,9379433261,Balakrishnan G,Male,INC,560047,Nilasandra,116,17
+20021,1,2018-08-21T07:55:47.100Z,12.951032,77.601483,"#26, 3rd cross, 1st main road, Vinayakanagar, Adugodi post, shanthinagar Bangalore-30",35,9986220732,P. Sowmya Shivakumar,Female,INC,560027,Shanthi Nagar,117,17
+20022,1,2018-08-21T07:55:48.476Z,12.959454,77.580568,"#50, C Street, Fort Road, Kalasipalya",25,9731210606,R V Yuvaraj,Male,INC,560002,Sudham Nagar,118,27
+20023,1,2018-08-21T07:55:50.302Z,12.941478,77.578528,"#12, Marathi Ranoji Rao Lane, Kalasipalya, Bengaluru-560002",,9448385014,Prathibha Dhanraj,Female,BJP,,Dharmaraya Swamy Temple,119,27
+20024,1,2018-08-21T07:52:36.549Z,13.076271,77.525568,"#2, Sri Venkateshwara Nilaya, Abbigere Layout, Abbigere, Chikkabanavara Post",49,9845019093,K Nagabhushan,Male,INC,560090,Shettihalli,12,28
+20025,1,2018-08-21T07:55:52.221Z,,,"#351, Balaji Complex, Bazar Street, Kuvempu Road, Kengeri",38,9886095642,D Pramod,Male,INC,560060,Cottonpete,120,2
+20026,1,2018-08-21T07:55:53.993Z,13.058682,77.606587,"#10, 11th Cross, Bhuvaneshwari Nagar",45,9845286870,Mahadevamma Nagaraj,Female,INC,560023,Binni Pete,121,2
+20027,1,2018-08-21T07:55:55.768Z,13.000383,77.575289,"#34/1, 8th Cross, K P Agrahara",42,8722302363,Gayathri M,Female,INDP,560023,Kempapura Agrahara,122,19
+20028,1,2018-08-21T07:55:57.666Z,12.936385,77.629661,"#19/1, A Cross, Chollur Palya, Magdi Road",35,9632725352,Srilatha,Female,BJP,560023,Vijaya Nagar,123,19
+20029,1,2018-08-21T07:55:59.297Z,12.986924,77.476207,"#151, 2nd Main, Vidhyaranya Nagar, Magadi Road",21,9538316929,R Mahalakshmi,Female,BJP,560023,Hosahalli,124,19
+20030,1,2018-08-21T07:56:01.180Z,12.967812,77.535291,"#242/H, 19th Cross, 21st Main, M R C R Layout, Vijayanagar",39,9845165479,Madhukumari Vageesh,Female,BJP,560040,Marenahalli,125,3
+20031,1,2018-08-21T07:56:02.541Z,12.976743,77.536407,"#3, 4th b Main Road, Byraveshwaranagar, Nagarbhavi Main Road",44,7829004433,V ShanthaKumar,Female,BJP,560072,Maruthi Mandir Ward,126,3
+20032,1,2018-08-21T07:56:04.065Z,12.968816,77.510319,"#95, Mudala Mane, ISES Main Road, Nagarbhavi",38,9845258168,Dase Gowda,Male,BJP,560072,Mudalapalya,127,3
+20033,1,2018-08-21T07:56:05.670Z,13.001521,77.630067,"#5/A, Gokula, 1st B Main Road, 5th Cross, Govindrajnagar",53,9945567767,G Mohan Kumar,Male,BJP,560040,Nagarabhavi,128,3
+20034,1,2018-08-21T07:56:07.289Z,12.978158,77.509439,"#268, 7th Cross, Nagarbhavi 6th Block, 2nd Phase",41,9886935566,Tejaswini Seetharamaiah,Female,BJP,560072,Jnana Bharathi Ward,129,15
+20035,1,2018-08-21T07:52:38.511Z,13.048769,77.512216,"Sri Ammaji Residency, 8th Cross, Kalyan Nagar, T Dasarahalli, Bengaluru-560057",35,9611921030,Lokesh N,Male,BJP,560057,Mallasandra,13,28
+20036,1,2018-08-21T07:56:09.219Z,12.923052,77.484651,"#358, 4th Main, Kengeri Upanagar",43,9972444227,Sharada,Female,BJP,560060,Ullalu,130,21
+20037,1,2018-08-21T07:56:11.120Z,12.936657,77.517064,"#143/1, ITI Layout, Mysore Road, Nayandahalli",43,9845504215,Savitha V Krishna,Female,INC,560039,Nayandahalli,131,3
+20038,1,2018-08-21T07:56:12.770Z,12.963029,77.538222,"#2215, 4th A Cross, 4th Main, Hampinagar, Vijaynagar 2nd Stage",53,9900047747,Dr S Raju,Male,BJP,560040,Attiguppe,132,19
+20039,1,2018-08-21T07:56:14.374Z,12.964482,77.540062,"#1804/2, Kuteer Apartment, 10th Cross, 5th Main, Hampi Nagar",44,9108932931,Anand C Hosur,Male,BJP,560104,Hampi Nagar,133,19
+20040,1,2018-08-21T07:56:15.950Z,12.999601,77.574689,"#4, 6th Cross, Shamanna Garden, Pipeline",41,9845133617,Azmal Beig,Male,INC,560026,Bapuji Nagar,134,19
+20041,1,2018-08-21T07:56:17.799Z,12.964309,77.549012,"#18/1, 11th Cross, Hosahalli Main Road, Padarayanpura",35,9845012032,Imran Pasha,Male,JD(S),560026,Padarayanapura,135,26
+20042,1,2018-08-21T07:56:19.248Z,12.965618,77.550676,"#116, 1st Cross, 3rd Main, Padaryanpura, J J R Nagar",30,7022155742,Seema Althaf Khan,Female,INC,560026,Jagajivanaram Nagar,136,26
+20043,1,2018-08-21T07:56:21.056Z,12.963497,77.553567,"# 51, 4th Cross, JJR Nagar (South), Bengaluru-560018",32,9845428199,Shashikala Keshav,Female,BJP,,Rayapuram,137,26
+20044,1,2018-08-21T07:56:22.379Z,12.962090,77.563764,"#86, C Lane, Anjanappa Garden, Mysore Road",39,9880073342,Rekha Kadiresh,Female,BJP,560018,Chelavadi Palya,138,26
+20045,1,2018-08-21T07:56:24.319Z,12.957009,77.563440,"#E-605, Hikeem Apartment, Bangalore",33,9900507769,Nazima Khanam,Female,JD(S),560018,KR Market,139,26
+20046,1,2018-08-21T07:52:40.381Z,13.060922,77.501836,"#590, Lakshmi Hayagriva Nilaya, 14th Main, Nagasandra Post, MEI Layout",53,9535097405,K Narasimha Nayak,Male,BJP,560064,Bagalakunte,14,28
+20047,1,2018-08-21T07:56:26.140Z,12.958517,77.561485,"#105, 3rd Main, 7th Cross, Chamarajpet",49,8050080369,G Kokila Chandrashekhar,Female,INC,560018,Chamraja Pet,140,26
+20048,1,2018-08-21T07:56:27.780Z,12.960017,77.617991,"#20/9, Rudrappa Garden, Pipeline Road, K B Nagar",34,9480277777,M Sujatha,Female,INC,560026,Azad Nagar,141,26
+20049,1,2018-08-21T07:56:29.693Z,12.913302,77.567040,"#319/90, G R Rajarathnam Road, Hanumathnagar",43,9845966449,D N Ramesh,Male,BJP,560019,Sunkenahalli,142,27
+20050,1,2018-08-21T07:56:31.285Z,12.939168,77.697426,"#15/38, Devaki Nandana Nilaya, Venkatappa Street, Chikka Mavali",43,9886456012,Vani V Rao,Female,BJP,560004,Vishveshwara Puram,143,27
+20051,1,2018-08-21T07:56:33.149Z,12.943050,77.592950,"#11, 8th Cross, Someshwaranagar, Jayanagar 1st Block",33,9886031387,Mujahid Pasha A,Male,SDPI,560011,Siddapura,144,27
+20052,1,2018-08-21T07:56:34.524Z,12.943117,77.601285,"#27/4, 1st Cross, A N Gupta Layout, Lakkasandra",54,9845196410,D Chandrappa,Male,INC,560003,Hombegowda Nagar,145,27
+20053,1,2018-08-21T07:56:36.436Z,12.941635,77.599257,"#16/51, 18th Cross, Ramaswamy Layout, Lakkasandra",39,9980567137,Sarala .C. Mahesh Babu,Male,BJP,560030,Lakkasandra,146,1
+20054,1,2018-08-21T07:56:38.313Z,12.936653,77.615772,"#19, 1st Cross, Hanuman Temple Road, Adugodi Post",48,7899090815,Manjula,Female,INC,560030,Adugodi,147,1
+20055,1,2018-08-21T07:56:40.241Z,12.943459,77.628798,"#5, 20th A Cross, Ejipura Main Road, Vivkenagar Post",53,9448492624,T Ramachandra,Male,INC,560047,Ejipura,148,1
+20056,1,2018-08-21T07:56:42.176Z,12.891219,77.750107,"#120, Near Govt Pry School, Balegere, Varthuru Post, Bangalore-560087",27,9482734881,Pushpa G M,Female,BJP,560087,Varthur,149,8
+20057,1,2018-08-21T07:52:42.081Z,13.050605,77.511846,"#673/1, 1st Floor, Behind Jain Temple, T Dasarahalli",33,9448308902,Umadevi Nagaraj,Female,BJP,560057,T Dasarahalli,15,28
+20058,1,2018-08-21T07:56:44.102Z,12.960389,77.691590,"#29, H A L Quarters, Centre Township",34,9945560840,A Asha,Female,BJP,,Bellanduru,150,8
+20059,1,2018-08-21T07:56:46.019Z,12.923715,77.649699,"#88/1, Near Hanuman Temple, Kormangala Village",49,9845059499,M Chandrappa,Male,INC,560095,Koramangala,151,1
+20060,1,2018-08-21T07:56:47.612Z,12.936231,77.629719,"#546, 1st Main, 1st Cross, 8th Block, Kormangala",82,9663660573,G Manjunath,Male,INC,560034,Suddagunte Palya,152,1
+20061,1,2018-08-21T07:56:49.412Z,12.932146,77.592356,"#210/9, 7th Main, 1st Block, Jayanagar",37,9945584209,Gangambike,Female,INC,560011,Jaya Nagar,153,6
+20062,1,2018-08-21T07:56:51.577Z,12.962005,77.637453,"#60/54, 2nd Cross (5th Cross) Javaraya Garden, Thyagarajnagar",58,9341220836,B S Satyanarayana,Male,BJP,560028,Basavanagudi,154,22
+20063,1,2018-08-21T07:56:53.176Z,12.921628,77.582101,"#190, 38th Cross, 7th Main, Jayanagar 5th Block",53,9535512363,H A Kempegowda,Male,BJP,560011,Hanumanth Nagar,155,22
+20064,1,2018-08-21T07:56:54.539Z,12.945569,77.550450,"#1060, 12th Main, 5th Cross, Raghavendra Block, Srinagar",36,9886748202,J.M. Savita Mayannagowda,Female,BJP,560050,Sri Nagar,156,22
+20065,1,2018-08-21T07:56:56.409Z,13.080824,77.542375,"#5/1, 2nd Cross, 2nd Main, Byatarayanpura, Mysore Road",40,9886542114,Uma N,Female,INC,560026,Gali Anjenaya Temple Ward,157,19
+20066,1,2018-08-21T07:56:58.606Z,12.912391,77.443828,"#41, Maramma Temple Road, Avalahalli, G E F Post, Mysore Road",36,8904466465,Anupama Dharmapal,Female,BJP,560026,Deepanjali Nagar,158,19
+20067,1,2018-08-21T07:57:00.212Z,12.923052,77.484651,"#360,EWS, 6th Cross, Kengeri Upanagar",49,9845457544,V V Satyanaraya,Male,BJP,560060,Kengeri,159,21
+20068,1,2018-08-21T07:52:43.695Z,12.999314,77.573138,"#B828, 8th Cross, Bahubali Nagar, Jalahalli, Bangalore-560013",44,9845373475,J N Srinivas Murthy,Male,INC,560013,Jalahalli,16,15
+20069,1,2018-08-21T07:57:01.723Z,12.890672,77.597361,"#256/1, Main Road, M G Layout, Halagevadarahalli, Rajarajeshwarinagar",49,9901234578,Nalini M Manju,Female,BJP,560098,Raja Rajeshawari Nagar,160,15
+20070,1,2018-08-21T07:57:03.430Z,12.938347,77.547641,"#4/12, 2nd A Main, BSK 3rd Stage, Hoskerahalli",38,7483372155,Rajeshwarai Cholraj,Female,BJP,560085,Hosakerehalli,161,11
+20071,1,2018-08-21T07:57:05.041Z,12.941976,77.554999,"#182/13, 11th Main Road, V. K Gokul Road, Basvanagudi-560019",,9880458018,AV Nandini Vijay Vittal,Female,BJP,,Giri Nagar,162,22
+20072,1,2018-08-21T07:57:06.617Z,12.925342,77.572838,"#2380, 19th Cross, 7th Main Road, Banashankari 2nd Stage",51,9845041067,M Venkatesh (Sangathi),Male,BJP,560070,Katriguppe,163,22
+20073,1,2018-08-21T07:57:08.518Z,12.924871,77.566240,"#123, Kattarguppe Village,Banashankari 2rd Stage",45,9844112869,Shamala Saikumar,Female,BJP,560085,Vidya Peeta Ward,164,22
+20074,1,2018-08-21T07:57:10.142Z,12.919156,77.561646,"#100, 1st Main Road, Kanaka Layout, Kadirenahalli, Banashankari 2nd Stage",32,8884567060,DH Lakshmi,Female,BJP,560070,Ganesh Mandir Ward,165,11
+20075,1,2018-08-21T07:57:12.614Z,12.930854,77.581531,"#155, 27th Cross, Jayanagar 6th Stage",45,9448058720,Yashoda Lakshmikanth,Female,BJP,560082,Kari Sandra,166,11
+20076,1,2018-08-21T07:57:14.327Z,12.929239,77.572277,"#2910, 14th A Cross, Banashankari 2nd Stage",39,9880011999,Poornima Ramesh,Female,BJP,560070,Yediyur,167,11
+20077,1,2018-08-21T07:57:16.143Z,12.918331,77.593046,"#1246, 25th A Main Road, Jayanagara 9th Block",46,9845000683,HC Nagarathna Ramamurthy,Female,BJP,560069,Pattabhi Ram Nagar,168,6
+20078,1,2018-08-21T07:57:17.713Z,12.932876,77.582390,"#100, 22nd Cross, 3rd Block, Jayanagar, Bengaluru 560041",56,9448480777,N Nagaraju,Male,BJP,560041,Byra Sandra,169,6
+20079,1,2018-08-21T07:52:45.494Z,13.037987,77.550197,"#19, 19th Cross, 7th 'A' Main Road, Muthyalamma Nagara, Bangalore-560054",39,9591666900,Mamatha K B Vasudev,Female,BJP,560054,J P Park,17,15
+20080,1,2018-08-21T07:57:20.014Z,12.921245,77.580906,"#18C, 5th Main Road, 5th Block, Jayanagar, Bengaluru-560041",55,9845014343,R Govinda Naidu,Male,BJP,,Jaya Nagar East,170,6
+20081,1,2018-08-21T07:57:22.224Z,12.918055,77.604308,"#46, 3rd Cross Road, 9th Main Road, BTM 1st Stage, Dharmaram Post",51,9845333786,Mohammad Rizwan Nawab,Male,INC,560029,Gurappana Palya,171,6
+20082,1,2018-08-21T07:57:24.140Z,12.924826,77.615145,"#84/19, 6th Cross, 1st Main, Maruti Nagara, Madivala",52,9341216636,B N Manjunath Reddy,Male,INC,560068,Madivala,172,1
+20083,1,2018-08-21T07:57:26.043Z,12.920918,77.633295,"#41, 8th Cross, 3rd Main Road, Venkatapura, Koramanagala",63,9448660567,Saraswathamma,Female,BJP,560034,Jakka Sandra,173,1
+20084,1,2018-08-21T07:57:27.962Z,12.923064,77.646453,"#E62, Agara Village, HSR Layout, Sarjapura Road, Beguru Hobli",53,9945890672,Gurumurthy Reddy,Male,BJP,560102,HSR Layout,174,23
+20085,1,2018-08-21T07:57:30.181Z,12.903984,77.582447,"#24, 4th Cross, K R Layout, JP Nagara 6th Phase, Jaraganahalli Ward",43,8904367489,C R Rajmohan Raju,Male,BJP,560078,Bommanahalli,175,23
+20086,1,2018-08-21T07:57:31.956Z,12.908437,77.603977,"#40, 4th Main Road, N S Palya, BTM 2nd Stage, B G Road",53,9448477556,K Devadas,Male,JD(S),560076,BTM Layout,176,1
+20087,1,2018-08-21T07:57:33.724Z,12.912660,77.578747,"#144, Lakshmi Nilaya, 12th Cross, Sarakki Main Road, JP Nagara 1st Pahse",53,9880175653,KN Lakshmi Nataraj,Female,BJP,560078,JP Nagar,177,6
+20088,1,2018-08-21T07:57:35.632Z,12.908519,77.573784,"#115, 12th Cross, Ramamandira Road, Sarakki Village, JP Nagara 1st Phase",29,9945097809,Deepika Manjunatha Reddy,Female,BJP,560078,Sarakki,178,6
+20089,1,2018-08-21T07:57:37.545Z,12.914209,77.590543,"#1192, 18th Main Road, JP Nagara 2nd Stage",41,9845155479,M Malathi,Female,BJP,560078,Shakambari Narar,179,6
+20090,1,2018-08-21T07:52:47.112Z,13.037745,77.572771,"#9, Maruthi Nilaya, 1st Cross, 3rd Main, A E C S Layout, Opp Rajmahal High School, Sanjaynagar",52,9448089689,M Anand,Male,JD(S),560094,Radhakrishna Temple Ward,18,4
+20091,1,2018-08-21T07:57:39.474Z,12.928593,77.561986,"#382, 6th Cross, 11th Main, Kaveri Nagara, Banashankari 2nd Stage",48,9341781881,S Ansar Pasha,Male,INC,560070,Banashankari Temple Ward,180,11
+20092,1,2018-08-21T07:57:41.118Z,12.921032,77.564438,"#1636, 30th Cross Road, Banashankari 2nd Stage",53,9343101474,L Srinivas,Male,BJP,560070,Kumara Swamy Layout,181,11
+20093,1,2018-08-21T07:57:42.935Z,12.915984,77.568060,"#122/7, 4th Cross, 2nd Main Road, Radhakrishna Layout, Padmanabhanagar, Bengaluru-560070",40,9902063006,Shobha Anjinappa,Female,BJP,,Padmanabha Nagar,182,11
+20094,1,2018-08-21T07:57:44.411Z,13.022046,77.617624,"#60/2, Behind Vinayaka Temple, KSRTC Layout, Chikkallasandra, Bangalore-61",29,9538999997,Supriya Shekhar,Female,BJP,560085,Chikkala Sandra,183,11
+20095,1,2018-08-21T07:57:46.330Z,12.903867,77.536400,"#997, 29th Main Road, Poornapragnanagar, Uttarahalli",45,9845340630,Hanumantaiah,Male,BJP,560061,Uttarahalli,184,12
+20096,1,2018-08-21T07:57:47.630Z,12.900009,77.572891,"#25/6, Kartika Nilaya, Yalachenahalli, Kanakapura Main Road",59,9945890672,V Balakrishna,Male,BJP,560078,Yelchenahalli,185,12
+20097,1,2018-08-21T07:57:48.957Z,13.043866,77.616315,"#61-1, Yelachenahalli, Kanakapura Main Road",44,9980830379,B M Shobha,Female,BJP,560078,Jaraganahalli,186,23
+20098,1,2018-08-21T07:57:50.471Z,12.904518,77.591856,"#36, 17th D Cross Road, 13th Main Road, Nanjundeshwara Layout, Puttenahalli, JP Nagara 5th Stage",46,9880126643,R Prabhavati,Female,BJP,560078,Puttenahalli,187,23
+20099,1,2018-08-21T07:57:52.072Z,12.900840,77.594731,"#164/4, 4th Stage, JP Nagara, Doresani Palya, Near Kalyani Megnam Teck Park",50,9591080004,K Narayan Raju,Male,BJP,560078,Bilekhalli,188,23
+20100,1,2018-08-21T07:57:53.964Z,12.892255,77.623208,"#10, 11th Main Road, 2nd Cross, MSR Layout, Hongasandra",45,9845256254,Bharathi M,Female,BJP,560068,Honga Sandra,189,23
+20101,1,2018-08-21T07:52:49.034Z,13.033492,77.575928,"#132, Deepa Flour Mill Road, 5th Cross, Nagashettyhalli, Sanjayanagara, Bangalore-560094",44,9845093202,Indira G,Female,BJP,560094,Sanjaya Nagar,19,4
+20102,1,2018-08-21T07:57:55.573Z,12.905554,77.635346,"#190, 6th cross, Ramanna Compound, Mangammanapalya, Bommanahalli Post, Bengaluru",39,9448388585,Shobha Jagadish Gowda,Female,INC,560068,Mangammana Palya,190,23
+20103,1,2018-08-21T07:57:56.970Z,12.970024,77.653612,"#671/2, Central Jail Left Side, 4th Cross, Channakeshava Nagara",25,9741116972,Shantha Babu,Female,BJP,560100,Singa Sandra,191,23
+20104,1,2018-08-21T07:57:58.440Z,12.882808,77.625691,"#14, 3rd Block, 6th Cross, Vishwapriya Badavane, Begur, Bengaluru- 114",47,9972585844,M Anjinappa,Male,INC,560068,Begur,192,12
+20105,1,2018-08-21T07:57:59.873Z,12.883294,77.606961,"#6, Shanthinikethana Layout, Arakere Village, IIM Post, Bannerugatta",48,9845266999,Bhagyalakshmi Murali ,Female,BJP,560076,Arakere,193,23
+20106,1,2018-08-21T07:58:01.547Z,12.890592,77.582665,"#23, 1st Main Road, 1st Cross, Wilson Garden Housing Socity, JP Nagara 7th Stage",49,9448389737,Lalitha T Narayan,Female,BJP,560078,Gottigere,194,12
+20107,1,2018-08-21T07:58:02.941Z,13.013330,77.625118,"#28, Sri Venkateshwara Nilaya, Muniswamappa Garden, Chunchagatta",44,9900150216,S. Shashirekha Jayaram,Female,BJP,560062,Konankunte,195,12
+20108,1,2018-08-21T07:58:04.736Z,12.863660,77.560628,"#361, Amrut Nagara Main Road, Opp Real Home Apartment, Anjanapura",44,9845966999,K Somashekar,Male,BJP,560062,Anjanapura,196,12
+20109,1,2018-08-21T07:58:06.470Z,12.911931,77.544707,"#16/72/2, Chikkalsandra main Road, Subramanyapura Post",37,9901229225,Shobha Gowda,Female,INC,560061,Vasanthpura,197,12
+20110,1,2018-08-21T07:58:07.962Z,12.865803,77.534122,"#14/4, Arya Nilaya, Bettegowda Layout, 1st Cross Road, Judicial Layout, Talagattapura, Kanakapura Main Road",39,9663151515,Arya Srinivas,Male,INC,560109,Hemmigepura,198,21
+20111,1,2018-08-21T07:52:17.244Z,13.112028,77.587896,"#3/126, Chowdeshwari Layout, Manavarthi Estate, Yelahanka",41,9845288774,R Padmavati Amarnath,Female,INC,560064,Chowdeswari Ward,2,20
+20112,1,2018-08-21T07:52:50.964Z,13.024979,77.586847,"#40, 5th Main, Hebbal Binny Mill, Gangenahalli Extension",49,9620888077,Prameela M,Female,BJP,560032,Ganga Nagar,20,4
+20113,1,2018-08-21T07:52:52.602Z,13.029689,77.597802,"#498, 3rd Cross, Shivshankar Block, Hebbal",44,9845327142,Anand Kumar M,Male,INC,560024,Hebbala,21,4
+20114,1,2018-08-21T07:52:54.063Z,13.033859,77.606303,"#88, 1st Main, 1st Cross, Patel Muniyappa Layout, V Nagenahalli, R T Nagar Post",37,9945698853,Rajashekara N,Male,JD(S),560032,Vishwanath Nagenahalli,22,4
+20115,1,2018-08-21T07:52:55.877Z,12.964436,77.638746,"#177, 2nd Cross, 2nd Main, 1st Stage, 1st Block, H B R BDA Layout",38,9591538890,Irshad Begum,Female,INC,560043,Nagavara,23,16
+20116,1,2018-08-21T07:52:57.496Z,13.005891,77.623085,"# 9, Lakshmipathi Layout, Kariyannna Palya, St Thomas Town Post",50,9845220544,P Anand,Male,INC,560085,HBR Layout,24,16
+20117,1,2018-08-21T07:52:59.411Z,13.056346,77.649954,"#67, Vrushabadri Nilaya, Vadarapalya, Kaverinagar, Horamavu Post",37,9845010989,Radhamma Venkatesh,Female,INC,560043,Horamavu,25,7
+20118,1,2018-08-21T07:53:01.401Z,13.033493,77.673888,"#246, Bireshwara Nilaya, Baktha Kanakadasa Road, Near Shiva Temple, Horamavu Post, Kalkere",36,9448689483,Padmavathi M,Female,BJP,560043,Ramamurthy Nagar,26,7
+20119,1,2018-08-21T07:53:03.269Z,13.017242,77.653693,"#642, 10th B Main, 2nd Cross, Annaiah Reddy Layout, Dodda Banaswadi",69,9900552222,A Kodanda Reddy,Male,BJP,560043,Banasavadi,27,16
+20120,1,2018-08-21T07:53:05.177Z,12.943426,77.609035,"#28, Sitamma Road, Ramaswamy Palya, Kammanahalli, Bangalore",41,9448555222,D Munilakshmamma,Female,BJP,560043,Kammanahalli,28,16
+20121,1,2018-08-21T07:53:07.161Z,13.019886,77.651290,"#27, 5th Cross, 3rd Block, H R B R Layout",52,9845021899,Padmanabha Reddy,Male,BJP,560043,Kacharkanahalli,29,16
+20122,1,2018-08-21T07:52:18.987Z,13.107831,77.607694,"#722, Shashwatha Nilaya, 7th cross A Sector, Yelahanka Upanagara, Bengaluru-560064",30,9880688949,Nethra Pallavi M,Female,BJP,560064,Atturu,3,20
+20123,1,2018-08-21T07:53:09.018Z,13.022840,77.638523,"#102, SIMS Heritage, 4th Main Road, HRBR Layout, 2nd Block, Bangalore-560043",,9844076716,Noushir Ahmad,Male,INC,,Kadugondanahalli,30,16
+20124,1,2018-08-21T07:53:10.915Z,13.014633,77.615127,"#17, Venugopal Swamy Temple Street, Next to Mother Teresa School, Anwar Layout",25,9845398112,Umme Salma,Female,JD(S),560043,Kushal Nagar,31,13
+20125,1,2018-08-21T07:53:12.510Z,13.019567,77.596813,"#1104, 2nd Cross, S H Layout, Kavalbyrasandra, R T Nagar Post",31,9844046268,Netra Narayan,Female,JD(S),560032,Kaval Bairasandra,32,13
+20126,1,2018-08-21T07:53:14.164Z,12.998561,77.606919,"#8, Harris Road, Benson Town, Bangalore-560046",48,9448455538,Abdul Wajid,Male,INC,,Manorayana Palya,33,4
+20127,1,2018-08-21T07:53:16.078Z,13.02038,77.588061,"#37, 3rd Main, Ganganagar Layout",55,9449646246,M Nagaraja,Male,BJP,560032,Gangenahalli,34,4
+20128,1,2018-08-21T07:53:17.709Z,13.033402,77.558907,"#1, 1st Cross Road, Jaladarshini Layout, Near BWSSB Water Tank, New BEL Road, Bangalore-560054",40,8095204000,Sumangala B,Female,BJP,560003,Aramane Nagara,35,10
+20129,1,2018-08-21T07:53:19.232Z,13.036521,77.560976,"#604, 1st E Cross, Mattikere",51,9341957603,Jayaprakash M C,Male,BJP,560054,Mattikere,36,10
+20130,1,2018-08-21T07:53:21.779Z,13.022183,77.557133,"#16, 1st Main Road, 2nd Cross, L.N. Colony, Yeshavanthapura, Bangalore",46,9880381872,G K Venkatesh,Male,INC,560022,Yeshwanthpura,37,15
+20131,1,2018-08-21T07:53:23.436Z,13.034280,77.527433,"#745, Shanthi Nilaya, R Rajanna Circle, Ashwath Katte Road, 2nd Block, Peenya",39,"9341253271, 9243104831",Asha S,Female,INC,560058,HMT Ward,38,15
+20132,1,2018-08-21T07:53:25.360Z,13.038950,77.515362,"#289, Narayanamma Building, Chokkasandra, T.Dasarahalli, Bangalore-560057",34,9980106222,Sarvamangala,Female,BJP,560057,Chokkasandra,39,28
+20133,1,2018-08-21T07:52:21.087Z,13.077659,77.580465,"#16, Bangari Nilaya, 3rd B Main Road, Someshwara Nagara,Yelahanka Upanagara,G K V K Post, Someshwara Nagara, Yelahanka Upanagara, Bengaluru-560064",46,9845637997,Sathish M,Male,BJP,560065,Yelahanka Satellite,4,20
+20134,1,2018-08-21T07:53:27.263Z,13.010854,77.493236,"#47, Near Anjaneya Temple, Andrahalli, Vishwaneedam Post",40,9916829386,Vasudeva S,Male,INC,560091,Dodda Bidarakallu,40,21
+20135,1,2018-08-21T07:53:29.181Z,13.005082,77.521470,"#9, Laggere Main Road, Parvathi Nagar",41,9900118099,Lalitha Thimmananjaiah,Female,INC,560058,Peenya Industrial Area,41,28
+20136,1,2018-08-21T07:53:30.790Z,13.027889,77.559396,"#594, 9th Cross, Gokula 1st Stage, 2nd Phase",47,9901697666,M Velu Nayakar,Male,INC,560054,Lakshmi Devi Nagar,42,15
+20137,1,2018-08-21T07:53:32.359Z,13.014245,77.535909,"# S35, Brindavan, Opp Presidency School, Nandini Layout",56,9886789567,K V Rajendra Kumar,Male,BJP,560096,Nandini Layout,43,9
+20138,1,2018-08-21T07:53:34.117Z,13.018063,77.526606,"#231, 5th Main, Vijayananda Nagar, Nandini Layout",43,9945544444,Mahadev M,Male,JD(S),560096,Marappana Palya,44,9
+20139,1,2018-08-21T07:53:35.911Z,13.029122,77.561180,"#28, 6th Cross, 3rd Main Raod, Gokul Layout, Divanara Palya, Bangalore-560054",44,9379799299,N Jayapal,Male,BJP,560054,Malleshwaram,45,10
+20140,1,2018-08-21T07:53:37.807Z,13.022314,77.594894,"#7/1, New Lancer Road, R T Nagar Main Road, Mattadahalli, R T Nagar",46,9448052709,Ganesh Rao Mane,Male,BJP,560032,Jayachamarajendra Nagar,46,4
+20141,1,2018-08-21T07:53:39.725Z,12.999143,77.615859,"#5, Murgesh Muduliyar Road, Frazer Town",47,9845207879,Sampathraj,Male,INC,560005,Devara Jeevanahalli,47,13
+20142,1,2018-08-21T07:53:41.318Z,12.950394,77.495291,"#10/69, 9th Cross, Muneshwaranagar, Shampura Main Road, K B Sandra, R T Nagar",35,9945112584,Syed Sazida,Female,INC,560032,Muneshwara Nagar,48,13
+20143,1,2018-08-21T07:53:42.918Z,13.029835,77.627457,"#795, 10th Main, 3rd Block, HBR Layout",34,9845265668,Lavanya Ganesh,Female,INC,560043,Lingarajapura,49,16
+20144,1,2018-08-21T07:52:23.126Z,13.104526,77.609542,"# 208/1, Punyakoti Dairy Farm, Kogilu Grama, Yelahanka Post, Bengaluru-560064",38,9845752211,K A Munindra Kumar,Male,BJP,,Jakkuru,5,24
+20145,1,2018-08-21T07:53:44.710Z,12.879010,77.609971,"#235/1, Krishna Kutira, 2nd Main, 3rd Cross, Krishnaiyanapalaya, Indiranagar Post",45,9900677227,Meenakshi Lakshmipathy,Female,INC,560038,Benniganahalli,50,25
+20146,1,2018-08-21T07:53:46.463Z,13.002479,77.674729,"#1, Shree Ramroad, Infront of Apna Bazaar, Vijinapura, Bengaluru-16",,9845341514,S Raja,Male,BJP,,Vijnanapura,51,7
+20147,1,2018-08-21T07:53:48.391Z,13.007233,77.700540,"#108, Channakeshava Nilaya, Siddappa Layout, Devasandra, K.R.Pura Bengaluru-560036",42,9886468169,K Poornima,Female,BJP,560036,KR Puram,52,7
+20148,1,2018-08-21T07:53:50.288Z,13.012101,77.765234,"#136/1, Coconut Garden, Seegehalli, Virgonagar Post, Bengaluru-560049",,"7411816999, 9741980749",BN Jayaprakash,Male,INC,,Basavanapura,53,7
+20149,1,2018-08-21T07:53:51.657Z,13.063141,77.620676,"#69, Bhagirathi, Chokkanahalli, Jakkur Post, Yelahanka Hobbli, Bangalore North",46,9880341517,Hariprasad A C,Male,INC,560064,Hudi,54,8
+20150,1,2018-08-21T07:53:53.497Z,13.003343,77.660621,"#208, 2nd Main road, Whitefield road, B. Narayanpur, Bengaluru-560016",,9845033361,M N Srikanth,Male,INC,,Devasandra,55,7
+20151,1,2018-08-21T07:53:55.100Z,12.971598,77.594562,"#105, A. Narayanapura, Near Govt. School, Bangalore-16",41,9980068194,V Suresh,Male,INC,560016,A Narayanapura,56,7
+20152,1,2018-08-21T07:53:56.771Z,12.976897,77.669988,"#123, 1st Main road, Malleshpalya, New Thippasandra, Bengaluru-560075",,"9449716667, 9980059972",Aruna Ravi,Female,BJP,,C.V. Raman Nagar,57,25
+20153,1,2018-08-21T07:53:58.612Z,12.981332,77.627195,"#49/1, Sri Rama Temple Street, New Tippasandra, HAL 3rd Stage, Bangalore 560075",29,9481406267,Shilpa Abhilash,Female,INC,560075,New Tippa Sandra,58,25
+20154,1,2018-08-21T07:54:00.198Z,13.003224,77.635937,"#10, Near Mukunda Theatre, Venkatarama Layout, Maruti Seva Nagar",54,9945595367,Hanna Bhuvaneshwari,Female,INC,560033,Maruthi Seva Nagar,59,16
+20155,1,2018-08-21T07:52:25.048Z,13.03743,77.64783,"#311, Shabari Nagar, K.R.Purarti, Hobli, Bangalore 560077",33,"9591149666, 9845343400",Mamatha KM,Female,INC,560077,Thanisandra,6,24
+20156,1,2018-08-21T07:54:01.649Z,12.906099,77.611349,"#259, New NO 38, 21st Cross, Halle Bagalur Layout",,9902247473,Elumalai,Male,INDP,560084,Sagayara Puram,60,13
+20157,1,2018-08-21T07:54:03.086Z,13.028023,77.595735,"# 759, 10th Cross, H M T Layout, R T Nagar",43,9845158052,Mohd Zameer Shah,Male,INC,560032,SK Garden,61,13
+20158,1,2018-08-21T07:54:04.719Z,13.003146,77.603910,"#2, 1st Main, Chinnappa Garden, Benson Town Post, Bangalore-560046",43,"9448049099, 9480131199",Nethravati Krishnegowda,Female,INC,560046,Ramaswamy Palya,62,18
+20159,1,2018-08-21T07:54:06.618Z,12.986067,77.599999,"#19/20, 1st Cross, N K Palya, Shivajinagar",54,9844131760,M K Gunashekhar,Male,INC,560051,Jaya Mahal,63,18
+20160,1,2018-08-21T07:54:08.339Z,12.997991,77.569644,"#2/2, Subhan, 3rd Temple Road, 13th Cross, Malleshwaram, Bangalore-560003",43,9980993419,Hemalatha Sathish Seth,Female,BJP,560003,Raj Mahal Guttahalli,64,10
+20161,1,2018-08-21T07:54:10.150Z,13.006461,77.567690,"#65, 16th Cross, West Park Road, Malleshwaram, Bangalore-560003",45,9972000168,Manjunath Raju,Male,BJP,560003,Kadu Malleshwar Ward,65,10
+20162,1,2018-08-21T07:54:11.815Z,13.000835,77.558071,"#3512/1, 1st Cross, C Block, Gayathrinagar",44,9945336141,H Manjunath,Male,INC,560021,Subramanya Nagar,66,10
+20163,1,2018-08-21T07:54:13.679Z,13.009304,77.542335,"#28/1, 2nd Cross, 6th Main, Bovipalya, Mahalakshmipura",48,9448315643,Badregowda B,Male,JD(S),560086,Nagapura,67,9
+20164,1,2018-08-21T07:54:15.596Z,13.000048,77.551964,"#19/K, 14th Cross, 1st Block, Rajajinagar",52,9844208489,S Keshavamurthy,Male,INC,560010,Mahalakshmipuram,68,9
+20165,1,2018-08-21T07:54:17.506Z,13.007829,77.531956,"#116/119, 3rd cross, Narasimhaswamy Layout, Laggere Bengaluru-560069",,"9900454848, 9620110550",Manjula Narayanaswamy,Female,JD(S),560058,Laggere,69,15
+20166,1,2018-08-21T07:52:26.952Z,13.065879,77.604205," #217, Behind Govt. Hospital, Amrutahalli, Sahakar Nagara Post, Bengaluru-560092",45,9448046271,P V Manjunath Babu,Male,INC,560092,Byatarayanapura,7,24
+20167,1,2018-08-21T07:54:19.446Z,13.000577,77.544692,"#235, Sri Krishna Nilaya, 6th Main, Nelagadharahalli",35,8904195583,Padmavati Narasimhamurty,Female,JD(S),560073,Rajagopal Nagar,70,28
+20168,1,2018-08-21T07:54:21.349Z,12.99099,77.502731,"#550/1, Hegnahalli, Vishwanidam Post, Sanjeevininagar",50,9343731898,Bhagyamma K,Female,BJP,560091,Hegganahalli,71,28
+20169,1,2018-08-21T07:54:23.560Z,12.989879,77.474315,"#18, Gollarahatti, Magadi Main Road",42,9741335250,Rajanna,Male,INC,560091,Herohalli,72,21
+20170,1,2018-08-21T07:54:25.184Z,12.976755,77.516184,"#35/36, Usha Nilaya, Gangamma Garden, Mallagalu Main Road, 2nd Stage Nagarbhavi",52,9448469383,G Mohan Kumar,Male,INC,560091,Kottegepalya,73,15
+20171,1,2018-08-21T07:54:26.743Z,12.995134,77.524545,"#90, Chandranagar, Chandrappa Road, Kamalanagar, Basaweshwara nagar, Bangalore- 560079",51,"9449668609, 8095900000",Gangamma,Female,JD(S),560079,Shakthi Ganapathi Nagar,74,9
+20172,1,2018-08-21T07:54:28.371Z,12.987614,77.537976,"#16, 1st Main, 1st Cross, Gruhalakshmi Layout, 2nd Stage, Kamalanagar",41,9880092283,M Shivaraju,Male,INC,560079,Shankar Matt,75,9
+20173,1,2018-08-21T07:54:30.597Z,12.999566,77.554450,"#1444, 5th Main, D Block, 2nd Stage, Rajajinagar",44,9845029593,Chandrakala Girish Lakanna,Female,INC,560010,Gayithri Nagar,76,10
+20174,1,2018-08-21T07:54:32.497Z,12.993133,77.573082,"#10, Sirur Park Road, 1st Cross, Malleshwaram",54,9845006104,R S Satynarayan,Male,INC,560003,Dattatreya Temple Ward,77,2
+20175,1,2018-08-21T07:54:34.120Z,12.995784,77.613202,"#59/1, Coles Road, Frazer Town",44,9845028127,Abdul Rakhib Zakir,Male,INC,560005,Pulakeshi Nagar,78,13
+20176,1,2018-08-21T07:54:35.731Z,12.990902,77.620915,"#19, 2nd Cross, Kadirappa Road, Doddigunta, Cox Town",38,9448031565,Shashirekha M,Female,BJP,560005,Sarvagna Nagar,79,25
+20177,1,2018-08-21T07:52:28.865Z,13.061541,77.583971,"#2152/16, Sri Manjunatha Nilaya, Water Tank Road, Sahakarnagar, Bangalore- 560092",30,9980277774,Chetan KM,Male,INC,560092,Kodigehalli,8,24
+20178,1,2018-08-21T07:54:37.357Z,12.980497,77.628911,"#67, Gangmen Quarters, Ananth Nayar Road, Murphy Town, Halasur",35,9845048806,Anand Kumar S,Male,INDP,560008,Hoysala Nagar,80,25
+20179,1,2018-08-21T07:54:39.301Z,12.990864,77.679958,"#16, Kalpavruksha Nilaya, 1st Main, P W D Main Road, Akash Nagar, Nandini Layout",49,9980808007,S G Nagaraj,Male,INC,560016,Vijnana Nagar,81,7
+20180,1,2018-08-21T07:54:41.267Z,12.992872,77.70231,"#82, Garudacharpalya, Mahadevapura Post, Bangalore-560048",30,9448474087,B N Nithish Purushotham,Male,INC,560046,Garudachar palya,82,8
+20181,1,2018-08-21T07:54:43.115Z,12.998204,77.759996,"#180, 1st Main, Bellatturu Colony, Kadugodi Post",40,9880088528,S Muniswamy,Male,BJP,560067,Kadugodi,83,8
+20182,1,2018-08-21T07:54:45.078Z,12.955899,77.688173,"#16, Munekolalu Post, Marathahalli",41,8105292233,S Uday Kumar,Male,INC,560037,Hagadur,84,8
+20183,1,2018-08-21T07:54:46.633Z,12.991811,77.717776,"#627, Hoodi Garden Thigalarapalya, Hoodi, Mahadevapura Post",26,9845272073,Shwetha Vijay Kumar,Female,BJP,560048,Dodda Nekkundi,85,8
+20184,1,2018-08-21T07:54:48.579Z,12.955531,77.700306,"#761/2, 93/7, Ring Road, Marathahalli",47,7353556699,Ramesh N,Male,INDP,560037,Marathahalli,86,8
+20185,1,2018-08-21T07:54:50.475Z,12.955899,77.688173,"#37, Vibuthi Pura, Marathahalli Post",46,9845977750,N Manjunath,Male,INC,560037,HAL Airport,87,7
+20186,1,2018-08-21T07:54:52.406Z,12.967198,77.649151,"#9, Old No 133, 3rd Cross, M T Street, 13th Main, Kodihalli",45,9845075292,K Veena Kumari,Female,BJP,560008,Jeevanbhima Nagar,88,25
+20187,1,2018-08-21T07:54:54.951Z,12.969899,77.631487,"#354 / 5, 3rd Cross, Someshwarapura, Cambridge Road, Halasur",39,9845035510,M Gautham Kumar,Male,BJP,560008,Jogupalya,89,17
+20188,1,2018-08-21T07:52:30.768Z,13.082440,77.559434,"#312, Narasipura Layour, Vidyaranyapura Post, Bangalore-5600097",33,9341269171,Kusuma H,Male,BJP,,Vidyaranyapura,9,24
+20189,1,2018-08-21T07:54:56.563Z,12.964658,77.612237,"#19, Anjaneya Koilu street, Halasur, Bangalore-560008",43,9844059238,Mamatha Sharavana,Female,INDP,560008,Halsoor,90,18
+20190,1,2018-08-21T07:54:58.456Z,12.990127,77.610617,"#5/20, Casurina Street, Bharathi Nagar, Shivajinagar",40,9844036811,Shakeel Ahmed,Male,INC,,Bharathi Nagar,91,18
+20191,1,2018-08-21T07:55:00.387Z,12.986177,77.602852,"#10/A, Noah Street, Shivajinagar",39,9986437460,Farida lstiyak,Female,INC,560051,Shivaji Nagar,92,18
+20192,1,2018-08-21T07:55:02.107Z,13.045297,77.549473,"#4/1, 8th B Cross, Vasanthnagar",48,9611129055,Sampath Kumar,Male,BJP,560052,Vasanth Nagar,93,18
+20193,1,2018-08-21T07:55:03.934Z,12.989195,77.573976,"#13/1, Nagappa Street, Seshadhripuram",38,"9739014214, 9449000006",Latha Kuvar Rathod,Female,INC,560020,Gandhi Nagar,94,2
+20194,1,2018-08-21T07:55:06.140Z,12.991262,77.5643,"#275, 6th Cross, Swatantra Palya, Sevashrama, Srirampuram",57,9845098788,L Govindaraju,Male,INC,560021,Subhash Nagar,95,2
+20195,1,2018-08-21T07:55:07.751Z,12.982700,77.566452,"#66/32, 1st Main, 2nd Stage, Okalipuram",48,9845101855,V Shivaprakash,Male,BJP,560021,Okalipuram,96,2
+20196,1,2018-08-21T07:55:09.673Z,12.989929,77.563853,"#22, 1st Cross, Bhashyamnagar, Srirampuram",42,9845059006,Kumari Palanikanth,Female,BJP,560021,Dayananda Nagar,97,14
+20197,1,2018-08-21T07:55:11.589Z,12.978998,77.559868,"#2/1, 2nd Cross, K P Temple, 6th Block, Rajajinagar",55,9663000002,Padmavathi G,Female,INC,560010,Prakash Nagar,98,14
+20198,1,2018-08-21T07:55:13.845Z,13.002883,77.546554,"#320A, 40 Ft road, 12th Cross, 2nd Stage, Manjunathnagar, West of Chord Road, Manjunathnagar",48,9448044748,G Krishnamurthy,Male,INC,560010,Rajaji Nagar,99,14
