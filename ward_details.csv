@@ -1,0 +1,199 @@
+Ward_No,Ward_Name,LS_const
+1,Kempegowda,Chikballapur
+2,Chowdeshwari,Chikballapur
+3,Attur,Chikballapur
+4,Yelahanka Satellite Town,Chikballapur
+5,Jakkur,Bangalore North
+6,Thanisandra,Bangalore North
+7,Byatarayanapura,Bangalore North
+8,Kodigehalli,Bangalore North
+9,Vidyaranyapura,Bangalore North
+10,Doddabommasandra,Bangalore North
+11,Kuvempu Nagar,Bangalore North
+12,Shettyhalli,Bangalore North
+13,Mallasandra,Bangalore North
+14,Bagalagunte,Bangalore North
+15,T-Dasarahalli,Bangalore North
+16,Jalahalli,Bangalore Rural
+17,J.P.Park,Bangalore Rural
+18,Radhakrishna Temple,Bangalore North
+19,Sanjay Nagar,Bangalore North
+20,Ganga Nagar,Bangalore North
+21,Hebbal,Bangalore North
+22,Vishwanathnagenahalli,Bangalore North
+23,Nagavara,Bangalore Central
+24,HBR Layout,Bangalore Central
+25,Horamavu,Bangalore North
+26,Ramamurthy Nagar,Bangalore North
+27,Banaswadi,Bangalore Central
+28,Kammanahalli,Bangalore Central
+29,Kacharakanahalli,Bangalore Central
+30,Kadugondanahalli,Bangalore Central
+31,Kushal Nagar,Bangalore North
+32,Kavalbyrasandra,Bangalore North
+33,Manorayanapalya,Bangalore North
+34,Gangenahalli,Bangalore North
+35,Aramane Nagar,Bangalore North
+36,Mathikere,Bangalore North
+37,Yeshwanthpur,Bangalore Rural
+38,H.M.T,Bangalore Rural
+39,Chokkasandra,Bangalore North
+40,Dodda Bidarkallu,Bangalore North
+41,Peenya Industrial Area,Bangalore North
+42,Lakshmidevi Nagar,Bangalore Rural
+43,Nandini Layout,Bangalore North
+44,Marappana Palya,Bangalore North
+45,Malleshwaram,Bangalore North
+46,Jayachamarajendra Nagar,Bangalore North
+47,Devarajeevanahalli,Bangalore North
+48,Muneshwara Nagar,Bangalore North
+49,Lingarajapuram,Bangalore Central
+50,Benniganahalli,Bangalore Central
+51,Vijanapura,Bangalore North
+52,K.R.Puram,Bangalore North
+53,Basavanapura,Bangalore North
+54,Hoodi,Bangalore Central
+55,Devasandra,Bangalore North
+56,A.Narayanapura,Bangalore North
+57,C.V.Raman Nagar,Bangalore Central
+58,Hosathippasandra,Bangalore Central
+59,Maruthiseva Nagar,Bangalore Central
+60,Sagayapuram,Bangalore North
+61,S.K.Garden,Bangalore North
+62,Ramaswamy Palya,Bangalore Central
+63,Jayamahal,Bangalore Central
+64,Rajamahal,Bangalore North
+65,Kadumalleshwara,Bangalore North
+66,Subramanya Nagar,Bangalore North
+67,Nagapura,Bangalore North
+68,Mahalakshmipuram,Bangalore North
+69,Laggere,Bangalore Rural
+70,Rajagopala Nagar,Bangalore North
+71,Hegganahalli,Bangalore North
+72,Herohalli,Bangalore North
+73,Kottigepalya,Bangalore Rural
+74,Shakthiganapathi Nagar,Bangalore North
+75,Shankaramata,Bangalore North
+76,Gayathri Nagar,Bangalore North
+77,Dattathreya Temple,Bangalore Central
+78,Pulikeshi Nagar,Bangalore North
+79,Sarvagna Nagar,Bangalore Central
+80,Hoysala Nagar,Bangalore Central
+81,Vignana Nagar,Bangalore North
+82,Garudacharpalya,Bangalore Central
+83,Kadugudi,Bangalore Central
+84,Hagadooru,Bangalore Central
+85,Doddanekkundi,Bangalore Central
+86,Marathalli,Bangalore Central
+87,HAL Airport,Bangalore North
+88,Jeevanbhima Nagar,Bangalore Central
+89,Jogupalya,Bangalore Central
+90,Ulsoor,Bangalore Central
+91,Bharathi Nagar,Bangalore Central
+92,Shivaji Nagar,Bangalore Central
+93,Vasanth Nagar,Bangalore Central
+94,Gandhi Nagar,Bangalore Central
+95,Subhash Nagar,Bangalore Central
+96,Okalipuram,Bangalore Central
+97,Dayananda Nagar,Bangalore Central
+98,Prakash Nagar,Bangalore Central
+99,Rajaji Nagar,Bangalore Central
+100,Basaveshwara Nagar,Bangalore Central
+101,Kamakshipalya,Bangalore Central
+102,Vrushabhavathi,Bangalore North
+103,Kaveripura,Bangalore South
+104,Govindraja Nagara,Bangalore South
+105,Agrahara Dasarahalli,Bangalore South
+106,Dr.Rajkumar Ward,Bangalore South
+107,Shiva Nagar,Bangalore Central
+108,Sri Rammandira,Bangalore Central
+109,Chikpete,Bangalore Central
+110,Sampangiram Nagar,Bangalore Central
+111,Shanthala Nagar,Bangalore Central
+112,Domlur,Bangalore Central
+113,Konena Agrahara,Bangalore Central
+114,Agaram,Bangalore Central
+115,Vannarpet,Bangalore Central
+116,Neelasandra,Bangalore Central
+117,Shanthi Nagar,Bangalore Central
+118,Sudam Nagar,Bangalore South
+119,Dharmarayaswamy Temple Ward,Bangalore South
+120,Cottonpet,Bangalore Central
+121,Binnipet,Bangalore Central
+122,Kempapura Agrahara,Bangalore South
+123,Vijay Nagar,Bangalore South
+124,Hosahalli,Bangalore South
+125,Marenahalli,Bangalore South
+126,Maruthi Mandira Ward,Bangalore South
+127,Moodalapalya,Bangalore South
+128,Nagarabhavi,Bangalore South
+129,Jnanabharathi Ward,Bangalore Rural
+130,Ullalu,Bangalore North
+131,Nayandanahalli,Bangalore South
+132,Attiguppe,Bangalore South
+133,Hampi Nagar,Bangalore South
+134,Bapuji Nagar,Bangalore South
+135,Padarayanapura,Bangalore Central
+136,Jagareevanram Nagar,Bangalore Central
+137,Rayapuram,Bangalore Central
+138,Chalavadipalya,Bangalore Central
+139,K.R.Market,Bangalore Central
+140,Chamrajpet,Bangalore Central
+141,Azad Nagar,Bangalore Central
+142,Sunkenahalli,Bangalore South
+143,Visvesvarapuram,Bangalore South
+144,Siddapura,Bangalore South
+145,Hombegowda Nagar,Bangalore South
+146,Lakkasandra,Bangalore South
+147,Adugodi,Bangalore South
+148,Ejipura,Bangalore South
+149,Varthur,Bangalore Central
+150,Bellandur,Bangalore Central
+151,Koramangala,Bangalore South
+152,Sudduguntepalya,Bangalore South
+153,Jayangar,Bangalore South
+154,Basavanagudi,Bangalore South
+155,Hanumantha Nagar,Bangalore South
+156,Sri Nagar,Bangalore South
+157,Gali Anjaneya Swamy Temple Ward,Bangalore South
+158,Deepanjali Nagar,Bangalore South
+159,Kengeri,Bangalore North
+160,Rajarajeshwari Nagar,Bangalore Rural
+161,Hosakerehalli,Bangalore South
+162,Giri Nagar,Bangalore South
+163,Katriguppe,Bangalore South
+164,Vidyapeetha,Bangalore South
+165,Ganeshmandira Ward,Bangalore South
+166,Karisandra,Bangalore South
+167,Yadiyuru,Bangalore South
+168,Pattabhiram Nagar,Bangalore South
+169,Byrasandra,Bangalore South
+170,Jayanagar East,Bangalore South
+171,Gurappanapalya,Bangalore South
+172,Madiwala,Bangalore South
+173,Jakkasandra,Bangalore South
+174,HSR Layout,Bangalore South
+175,Bommanahalli,Bangalore South
+176,BTM Layout,Bangalore South
+177,J.P.Nagar,Bangalore South
+178,Sarakki,Bangalore South
+179,Shakambari Nagar,Bangalore South
+180,Banashankari Temple Ward,Bangalore South
+181,Kumaraswamy Layout,Bangalore South
+182,Padmanabha Nagar,Bangalore South
+183,Chikkalasandra,Bangalore South
+184,Uttarahalli,Bangalore Rural
+185,Yelachenahalli,Bangalore Rural
+186,Jaraganahalli,Bangalore South
+187,Puttenahalli,Bangalore South
+188,Bilekahalli,Bangalore South
+189,Hongasandra,Bangalore South
+190,Mangammanapalya,Bangalore South
+191,Singasandra,Bangalore Rural
+192,Begur,Bangalore Rural
+193,Arakere,Bangalore South
+194,Gottigere,Bangalore Rural
+195,Konanakunte,Bangalore Rural
+196,Anjanapur,Bangalore Rural
+197,Vasanthapura,Bangalore Rural
+198,Hemmigepura,Bangalore North
