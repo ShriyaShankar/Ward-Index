@@ -5,7 +5,17 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import statistics 
 import os
+import warnings
+import nltk
+import string
+import collections
+import matplotlib.cm as cm
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
+from textblob import TextBlob,Word,Blobber
+
+nltk.download('stopwords')
+warnings.filterwarnings('ignore')
 filepath = os.path.join(os.getcwd(),'CSV_Files','ninja_reports.xls')
 df = pd.read_excel('ninja_reports2.xls',sheet_name='ninja_reports')
 
@@ -142,7 +152,33 @@ def bar_new_cat():
 bar_new_cat()
 
 # %%
+def word_cloud(df):
+    df['description'] = df['description'].str.lower()
+    des = df.description.str.split(' ')
+    #des.head()
+    des_cleaned = []
 
+    #removing punctuation
+    for text in des:
+        text = [x.strip(string.punctuation) for x in text]
+        des_cleaned.append(text)
+
+    #des_cleaned[0]
+
+    #joining all the text
+    text_des = [" ".join(text) for text in des_cleaned]
+    fin_text = " ".join(text_des)
+    #final_text_spam[:500]
+    wordcloud_spam = WordCloud(background_color="white").generate(fin_text)
+
+    # Lines 2 - 5
+    plt.figure(figsize = (16,16))
+    plt.title("Word Cloud of Complaints")
+    plt.imshow(wordcloud_spam, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
+    
+word_cloud(df)
 
 # %%
 
@@ -317,6 +353,64 @@ print(count)
 
 # %%
 #hdsf
+
+# %%
+def sentiment():
+    sentiment = {}
+    text = []
+    print(len(df.description))
+    for i in df.description:
+        text = TextBlob(i)
+        sentiment[text] = text.sentiment
+    print(len(sentiment))
+
+sentiment()
+
+# %%
+df_b = df.loc[df['city_number']==1]
+
+def cat_b():
+    new_cat = {}
+    for i in df_b.new_title_id:
+        if i not in new_cat:
+            new_cat[i] = 1
+        else:
+            new_cat[i]+=1
+    plt.figure(figsize = (8,8))
+    plt.title("Categories - Bangalore")
+    #plt.grid(True)
+    print("Categories")
+    for i in new_cat:
+        print(i,":",new_cat[i])
+    plt.pie(new_cat.values(),labels = new_cat.keys(),  autopct = '%.2f')# color = ['green','red'], tick_label = df.new_title_id.unique())
+
+cat_b() 
+
+# %%
+def ward_cleaning():
+    count = 0
+    noise = []
+    for i in df_b.ward_id:
+        if i not in list(range(1,199)):
+            count+=1
+            noise.append(i)
+    print(count)
+    loc = []
+    for i in np.unique(np.array(noise)):
+        loc.append((df_b.loc[df['ward_id']==i]).location)
+    print(loc)
+    
+ward_cleaning()
+
+
+# %%
+#df['description'].isnull().sum()
+
+# %%
+#print(df_b.shape)
+
+# %%
+
 
 # %%
 
