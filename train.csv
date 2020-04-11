@@ -1,3 +1,4 @@
+complaint,sentiment
 This area is filled with garbage.,neg
 There is a blackspot,neg
 The garbage dump stinks.,neg 
@@ -8,7 +9,7 @@ In Anna nagar roundanna there is a big sewage line unfinished. It is blocked by 
 It's so dark we feel so insecure the street lights are not working properly and this is going on for past 3 days please consider and take immediate action,neg
 Water stopped coming to thus area a long time ago. Everyone has been using water below humane levels. A issue has been reported but no action has been taken. ,neg
 Please help to clear the garbage ,neg
-Outside Vehicles are being parked in front of the gate.
+Outside Vehicles are being parked in front of the gate.,neg
 So it is difficult to park our vehicles. ,neg
 Garbages are put on road and making it unclean I request to put a roadside bin here ,neg
 These wires are too dangerous when it is hanging on to roads.it may also cause accident.whrn it rains the current from wire cause shock to people.so these wires should be maintained properly......... ,neg
@@ -56,7 +57,7 @@ People litter on the road. There are no dustbins in this area,neg
 Mosquitoes are breeding here due to accumulation of wet waste,neg
 There is a lot of garbage dump in and around this area where lots of small petty shops and food carts are located. Disposable paper cups are thrown here and they find their way into storm water drains,neg
 Garbage dumped,neg
-Dangerous manhole,  risk to life ,neg
+"Dangerous manhole, risk to life ",neg
 Garbage dump under the railway bridge. ,neg
 Very poor and no cleaning ,neg
 Flies and rodents can be seen,neg
@@ -136,11 +137,11 @@ Waste disposed in roads government must take responsibility to clean up and ensu
 They didn't collect waste properly ,neg
 Waste disposed in roads  ,neg
 There are potholes on foot paths which connects nagarjuna and Purva Venezia. The staff use this to go home in night. There is a fruit stall beside this and it gets affected. ,neg
-Everyday the local people dump garbage here. It's become a big nuisance in our community. Animals gather around this and when it rains, the whole road is filled with garbage. ,neg
+Everyday the local people dump garbage here. It's become a big nuisance in our community. Animals gather around this and when it rains the whole road is filled with garbage. ,neg
 This is another garbage dump frequently being replenished no matter how many times the BBMP workers clean it. ,neg
 The entry to Convent road from residency road is very dark. People use their phone torches to walk. Not working for more than 1.5 months. Please fix the lights ,neg
 Air pollution ,neg
-The trees in Gopalapuram 1st main road have been cut down for no reason. This not only decreases the production of oxygen , but it also affects the global temperature of the world. stop cutting trees. ,neg
+The trees in Gopalapuram 1st main road have been cut down for no reason. This not only decreases the production of oxygen but it also affects the global temperature of the world. stop cutting trees. ,neg
 Should clear this as there is an increase in mosquitoes ,neg
 Garbage overflows ,neg
 There an overflow of garbage ,neg
@@ -155,7 +156,7 @@ Water collected at the side of the road after rain ,neg
 Water logging by the road side ,neg
 Water collected in the middle of the main road and is very inconvenient for those travelling ,neg
 Main road water collection. Very inconvenient for riding ,neg
-A line full of cars and other vehicles park in front of my apartment everyday but there is no one to stop them. It is occupying road space, plus we are left with no space to walk on the road. ,neg
+A line full of cars and other vehicles park in front of my apartment everyday but there is no one to stop them. It is occupying road space plus we are left with no space to walk on the road. ,neg
 Excessive garbage in a field ,neg
 Cannot breathe ,neg
 Omg how bad people are ,neg
@@ -165,7 +166,7 @@ Water is black and is not cleaned properly for apartment houses here. Smell is h
 Encroachment of public space for commercial purpose ,neg
 Cars are parked where ever they want it ,neg
 Open Dump in service road which leads to open defecation. ,neg
-The street light ,which is not working has not been changed or repaired. ,neg
+The street light which is not working has not been changed or repaired. ,neg
 These holes make communication more inconvenient for  vehicles . ,neg
 The garbage bin is overflowing and not maintained  ,neg
 Garbage bin overflowing and not maintained ,neg
@@ -173,10 +174,10 @@ The  construction materials have been kept on the roads . ,neg
 It disposed in street... It leads to many problems ,neg
 Garbage outside the dustbin. ,neg
 Dustbin full and garbage outside dustbin. ,neg
-This pollution must be abolished, because due to increasing level in air pollution oxygen level in the atmosphere comes down. It makes difficult for the people to breathe. ,neg
+This pollution must be abolished because due to increasing level in air pollution oxygen level in the atmosphere comes down. It makes difficult for the people to breathe. ,neg
 It may cause many accidents. It causes traffic jam. ,neg
 Our mistake by throwing plastics on road sides = animals suffer and die ,neg
-Most of them daily throughing  garages in the vacant plot adjusent to vellamal school, ie. In vellamal school road. ,neg
+Most of them daily throughing  garages in the vacant plot adjusent to vellamal school,neg
 There is a college nearby...waste have been dumped and its stinky too ,neg
 Due to stagnent water mosquitos may appear ,neg
 Citizens are throwing garbage in night time  ,neg
@@ -200,8 +201,7 @@ The vchical is standing  and the water  can not flow ,neg
 Public restroom used as a dumpyard ,neg
 There are so many ???? have been parked here in the platform so please tell them to take them out. ,neg
 This the garbage ???? bin which is not overflowing but it really stinks ???? so pls clean ???? it up. ,neg
-Potb holes on the road!!!  Due to this hole many 
-Accidents take place governmentust take action in these problem ,neg
+Potb holes on the road!!!  Due to this hole many accidents take place governmentust take action in these problem ,neg
 This is dangling here. When we cross the road by walk-in we may slip. So please repair it. ,neg
 There is a transformer near this waterlogged place and it is highly risky to cross this area and many crows die and fall on the road due to this ,neg
 There is no proper collection of garbege ,neg
