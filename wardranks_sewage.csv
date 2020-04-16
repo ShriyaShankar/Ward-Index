@@ -1,71 +1,50 @@
 Ward_ID,Ward_Name,Score
-188,Bilekahalli,48093.96700435611
-168,Pattabhiram Nagar,128.3977475090237
-193,Arakere,102.95336296209608
-160,Rajarajeshwari Nagar,70.04422771311765
-175,Bommanahalli,55.389694330337434
-190,Mangammanapalya,45.488892353640196
-178,Sarakki,42.73490659934335
-7,Byatarayanapura,39.01878241022356
-111,Shanthala Nagar,34.71638496266226
-9,Vidyaranyapura,30.112692825156294
-148,Ejipura,25.56022561090826
-177,J.P.Nagar,23.765451008065977
-194,Gottigere,21.374989215676074
-4,Yelahanka Satellite Town,21.235225076603253
-187,Puttenahalli,20.249894422131433
-84,Hagadooru,20.139274372948375
-142,Sunkenahalli,15.025609789286536
-151,Koramangala,11.636736949334429
-196,Anjanapur,11.611404124512518
-174,HSR Layout,11.241498048840405
-85,Doddanekkundi,10.606095151653028
-164,Vidyapeetha,10.03356298566814
-192,Begur,9.758032831485927
-80,Hoysala Nagar,9.607452457810727
-191,Singasandra,8.237047859479096
-150,Bellandur,7.897420586101491
-6,Thanisandra,7.839005701011972
-58,Hosathippasandra,7.749126367573218
-149,Varthur,6.953628343557435
-83,Kadugudi,6.00224174898383
-82,Garudacharpalya,5.773803772064848
-135,Padarayanapura,5.015281786898358
-137,Rayapuram,4.000002727690467
-54,Hoodi,3.6308363019815957
-94,Gandhi Nagar,3.43997436033276
-57,C.V.Raman Nagar,3.33938289432227
-195,Konanakunte,3.321484516934995
-64,Rajamahal,2.5493156360880165
-145,Hombegowda Nagar,2.5355676158852267
-165,Ganeshmandira Ward,2.377445570082401
-152,Sudduguntepalya,2.245108170712525
-79,Sarvagna Nagar,2.1665717393526096
-51,Vijanapura,2.0705462557356946
-170,Jayanagar East,2.0122059355385673
-163,Katriguppe,2.0068484461032714
-50,Benniganahalli,1.989557834890643
-146,Lakkasandra,1.803815508505461
-35,Aramane Nagar,1.514506325983994
-184,Uttarahalli,1.4509989455503784
-2,Chowdeshwari,1.4036841729966802
-132,Attiguppe,1.1177058662740618
-33,Manorayanapalya,1.0809774416470233
-87,HAL Airport,1.0447602451642835
-113,Konena Agrahara,1.0417928080106689
-140,Chamrajpet,1.026916657610526
-144,Siddapura,1.0073253097912307
-124,Hosahalli,1.0006026693499968
-11,Kuvempu Nagar,1.0005691997737807
-65,Kadumalleshwara,1.0000008304081247
-114,Agaram,1.0000008304081247
-118,Sudam Nagar,1.0000008304081247
-8,Kodigehalli,1.000000230068418
-158,Deepanjali Nagar,1.000000230068418
+193,Arakere,29.85424904247944
+190,Mangammanapalya,20.82817549792715
+192,Begur,14.504945247167646
+168,Pattabhiram Nagar,13.864910924650102
+83,Kadugudi,11.178554171145052
+194,Gottigere,10.557002371567801
+178,Sarakki,10.382126882525192
+174,HSR Layout,9.62113558400724
+160,Rajarajeshwari Nagar,9.084798942181141
+150,Bellandur,8.87592308464601
+175,Bommanahalli,8.025165043468439
+6,Thanisandra,6.7230048303498275
+196,Anjanapur,5.861857033129056
+9,Vidyaranyapura,5.125713607328041
+182,Padmanabha Nagar,4.687214993980823
+33,Manorayanapalya,4.276880179176721
+149,Varthur,4.023990622764397
+84,Hagadooru,3.7273252875644713
+166,Karisandra,3.6983735027189084
+82,Garudacharpalya,3.4621648984242537
+54,Hoodi,2.842245834338681
+161,Hosakerehalli,2.7076105908372456
+142,Sunkenahalli,2.7017308264468842
+177,J.P.Nagar,2.593795742314296
+85,Doddanekkundi,2.5894268934675306
+67,Nagapura,2.180278943896796
+127,Moodalapalya,2.000000266732697
+198,Hemmigepura,1.7344324551657433
+195,Konanakunte,1.7145082526547886
+4,Yelahanka Satellite Town,1.6470782926933643
+63,Jayamahal,1.3321161103332002
+154,Basavanagudi,1.3251521075318289
+188,Bilekahalli,1.2190200067155685
+65,Kadumalleshwara,1.1278206302098597
+153,Jayangar,1.0906142157426642
+108,Sri Rammandira,1.0322840797870023
+89,Jogupalya,1.000000308329191
+99,Rajaji Nagar,1.0000001333663484
 1,Kempegowda,0.0
+2,Chowdeshwari,0.0
 3,Attur,0.0
 5,Jakkur,0.0
+7,Byatarayanapura,0.0
+8,Kodigehalli,0.0
 10,Doddabommasandra,0.0
+11,Kuvempu Nagar,0.0
 12,Shettyhalli,0.0
 13,Mallasandra,0.0
 14,Bagalagunte,0.0
@@ -88,6 +67,7 @@ Ward_ID,Ward_Name,Score
 31,Kushal Nagar,0.0
 32,Kavalbyrasandra,0.0
 34,Gangenahalli,0.0
+35,Aramane Nagar,0.0
 36,Mathikere,0.0
 37,Yeshwanthpur,0.0
 38,H.M.T,0.0
@@ -102,17 +82,20 @@ Ward_ID,Ward_Name,Score
 47,Devarajeevanahalli,0.0
 48,Muneshwara Nagar,0.0
 49,Lingarajapuram,0.0
+50,Benniganahalli,0.0
+51,Vijanapura,0.0
 52,K.R.Puram,0.0
 53,Basavanapura,0.0
 55,Devasandra,0.0
 56,A.Narayanapura,0.0
+57,C.V.Raman Nagar,0.0
+58,Hosathippasandra,0.0
 59,Maruthiseva Nagar,0.0
 60,Sagayapuram,0.0
 61,S.K.Garden,0.0
 62,Ramaswamy Palya,0.0
-63,Jayamahal,0.0
+64,Rajamahal,0.0
 66,Subramanya Nagar,0.0
-67,Nagapura,0.0
 68,Mahalakshmipuram,0.0
 69,Laggere,0.0
 70,Rajagopala Nagar,0.0
@@ -124,19 +107,21 @@ Ward_ID,Ward_Name,Score
 76,Gayathri Nagar,0.0
 77,Dattathreya Temple,0.0
 78,Pulikeshi Nagar,0.0
+79,Sarvagna Nagar,0.0
+80,Hoysala Nagar,0.0
 81,Vignana Nagar,0.0
 86,Marathalli,0.0
+87,HAL Airport,0.0
 88,Jeevanbhima Nagar,0.0
-89,Jogupalya,0.0
 90,Ulsoor,0.0
 91,Bharathi Nagar,0.0
 92,Shivaji Nagar,0.0
 93,Vasanth Nagar,0.0
+94,Gandhi Nagar,0.0
 95,Subhash Nagar,0.0
 96,Okalipuram,0.0
 97,Dayananda Nagar,0.0
 98,Prakash Nagar,0.0
-99,Rajaji Nagar,0.0
 100,Basaveshwara Nagar,0.0
 101,Kamakshipalya,0.0
 102,Vrushabhavathi,0.0
@@ -145,44 +130,58 @@ Ward_ID,Ward_Name,Score
 105,Agrahara Dasarahalli,0.0
 106,Dr.Rajkumar Ward,0.0
 107,Shiva Nagar,0.0
-108,Sri Rammandira,0.0
 109,Chikpete,0.0
 110,Sampangiram Nagar,0.0
+111,Shanthala Nagar,0.0
 112,Domlur,0.0
+113,Konena Agrahara,0.0
+114,Agaram,0.0
 115,Vannarpet,0.0
 116,Neelasandra,0.0
 117,Shanthi Nagar,0.0
+118,Sudam Nagar,0.0
 119,Dharmarayaswamy Temple Ward,0.0
 120,Cottonpet,0.0
 121,Binnipet,0.0
 122,Kempapura Agrahara,0.0
 123,Vijay Nagar,0.0
+124,Hosahalli,0.0
 125,Marenahalli,0.0
 126,Maruthi Mandira Ward,0.0
-127,Moodalapalya,0.0
 128,Nagarabhavi,0.0
 129,Jnanabharathi Ward,0.0
 130,Ullalu,0.0
 131,Nayandanahalli,0.0
+132,Attiguppe,0.0
 133,Hampi Nagar,0.0
 134,Bapuji Nagar,0.0
+135,Padarayanapura,0.0
 136,Jagareevanram Nagar,0.0
+137,Rayapuram,0.0
 138,Chalavadipalya,0.0
 139,K.R.Market,0.0
+140,Chamrajpet,0.0
 141,Azad Nagar,0.0
 143,Visvesvarapuram,0.0
+144,Siddapura,0.0
+145,Hombegowda Nagar,0.0
+146,Lakkasandra,0.0
 147,Adugodi,0.0
-153,Jayangar,0.0
-154,Basavanagudi,0.0
+148,Ejipura,0.0
+151,Koramangala,0.0
+152,Sudduguntepalya,0.0
 155,Hanumantha Nagar,0.0
 156,Sri Nagar,0.0
 157,Gali Anjaneya Swamy Temple Ward,0.0
+158,Deepanjali Nagar,0.0
 159,Kengeri,0.0
-161,Hosakerehalli,0.0
 162,Giri Nagar,0.0
-166,Karisandra,0.0
+163,Katriguppe,0.0
+164,Vidyapeetha,0.0
+165,Ganeshmandira Ward,0.0
 167,Yadiyuru,0.0
 169,Byrasandra,0.0
+170,Jayanagar East,0.0
 171,Gurappanapalya,0.0
 172,Madiwala,0.0
 173,Jakkasandra,0.0
@@ -190,10 +189,11 @@ Ward_ID,Ward_Name,Score
 179,Shakambari Nagar,0.0
 180,Banashankari Temple Ward,0.0
 181,Kumaraswamy Layout,0.0
-182,Padmanabha Nagar,0.0
 183,Chikkalasandra,0.0
+184,Uttarahalli,0.0
 185,Yelachenahalli,0.0
 186,Jaraganahalli,0.0
+187,Puttenahalli,0.0
 189,Hongasandra,0.0
+191,Singasandra,0.0
 197,Vasanthapura,0.0
-198,Hemmigepura,0.0
