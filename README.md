@@ -1,4 +1,15 @@
-# WardIndex
-A model that analyses complaints made by citizens of Bangalore about civic issues during the year 2019, and uses Sentiment Analysis and Random Forest Regression to assign ranks to each ward in Bangalore in order to create a rankcard. Also uses Naive Bayes algorithm to predict what category a complaint would fall into. 
+# Ward Index 
+## Understanding Citizen Proactivity and Responsiveness of Local Government in Bengaluru using Machine Learning
+A machine learning model that performs sentiment analysis complaints made by citizens of Bangalore about civic issues during the year 2019, and rank wards based on parameters like category, status and severity of complaints, in order to help policymakers introduce reform in local government. 
 
-Implemented using Python
+   - Data obtained from ReapBenefit, Janaagraha and Twitter.
+
+   - Implemented using Python, using the Naive Bayes Classifier and Random Forest Regressor.
+
+### Run
+- Clone the repository
+- Execute  ```test1.ipynb```
+
+### Authors
+- Adithi Satish
+- Shriya B Shankar
