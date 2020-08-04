@@ -4,7 +4,7 @@ A machine learning model that performs sentiment analysis complaints made by cit
 
    - Data obtained from ReapBenefit, Janaagraha and Twitter.
 
-   - Implemented using Python, using the Naive Bayes Classifier and Random Forest Regressor.
+   - Implemented using Python, using the Linear Kernel SVC Classifier and Random Forest Regressor.
 
 ### Run
 - Clone the repository
